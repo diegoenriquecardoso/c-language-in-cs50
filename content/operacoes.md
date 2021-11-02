@@ -64,4 +64,6 @@ Tanto a variável x como a variável y se tratam de "ints", porém, ao colocarmo
 
 Por fim, como pode ser visto, há **comentários** no código do último exemplo, para fazê-los basta colocar "//" em junção do que se deseja comentar sobre qualquer um dos códigos. Esta é uma função muito importante que permite que outras pessoas possam entender melhor o que foi programado, assim como possibilita uma melhor colaboração coletiva e aprendizado sobre o código.
 
-Próximo: [4 - Condições](https://github.com/diegoenriquecardoso/c-language-in-cs50/blob/main/content/condicoes.md)
+Anterior: [2 - Data Types](https://github.com/diegoenriquecardoso/c-language-in-cs50/blob/main/content/datatypes.md) / Próximo: [4 - Condições](https://github.com/diegoenriquecardoso/c-language-in-cs50/blob/main/content/condicoes.md)
+
+[index]()
