@@ -29,11 +29,9 @@ Após o Header, vemos:
 
 Esta linha está sempre inclusa nos programas que não precisam de um input para serem iniciados, "int main" se trata da declaração da função principal "main" do programa, já " (void)" dita como nada deve ser escrito adjacente ao comando de iniciação quando for se executar o programa. 
 
-> ´´´ { 
 > printf("hello, world");
->  } ´´´
 
-a
+O corpo do programa que dirá o que o deve ser feito e de que forma sempre deve ser colocado entre chaves "{" e "}". Aqui vemos o comando "printf", ele irá imprimir para o usuário o que tiver sido escrito dentro das parênteses e entre aspas após o mesmo. Como outros "corpos" ou "branches", sempre após um comando printf, deve-se utilizar ponto e vírgula ";".
 
 
 
