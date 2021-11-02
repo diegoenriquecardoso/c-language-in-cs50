@@ -136,7 +136,7 @@ Como desta vez não imprimiremos o valor de apenas uma variável, mas de duas so
 
 Caso quiséssemos trabalhar com valores possívelmente maiores (no caso maiores que 4 bilhões), poderíamos trocar o data type do código de "int" para "long". Assim como se quiséssemos dividir em vez de somar trocaríamos o símbolo de "+" por um de "/". 
 
-Porém, por sua vez caso quisséssemos que nossas divisões pudessem resultar em números com vírgula, teríamos que fazer algumas mudanças além de simplesmente utilizar os data types "float" ou "double".
+Porém, por sua vez caso quisséssemos que nossas divisões pudessem resultar em números com vírgula, teríamos que fazer algumas mudanças além de simplesmente utilizar os data types "float" ou "double":
 ```
 #include <stdio.h>
 #include <cs50.h>
@@ -158,6 +158,7 @@ Aqui, simplesmente criamos uma nova variável para representar o valor da divis�
 
 Tanto a variável x como a variável y se tratam de "ints", porém, ao colocarmos um novo data type entre parênteses quando as apresentamos em outra linha, como na operação de divisão, elas são convertidas para o o tipo escolhido, no caso floats, mas apenas na linha em que isso foi feito, isso é denominado **Typecasting**. Mesmo a variável z a qual foi alocado o valor da divisão sendo um "float", caso X e Y permaneçam ints, quaisquer divisões que resultem em valores com vírgula seriam equívocados. 
 
+Por fim, como pode ser visto, há **comentários** no código do último exemplo, para fazê-los basta colocar "//" em junção do que se deseja comentar sobre qualquer um dos códigos. Esta é uma função muito importante que permite que outras pessoas possam entender melhor o que foi programado, assim como possibilita uma melhor colaboração coletiva e aprendizado sobre o código.
 
 # Condições
 
