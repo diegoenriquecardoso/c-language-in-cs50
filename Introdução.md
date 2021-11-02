@@ -132,6 +132,7 @@ Com \n:
 
 ![image](https://user-images.githubusercontent.com/93105584/139869389-515a8d70-57c3-4546-834c-6f9178d0ff4c.png)
 
+Como desta vez não imprimiremos o valor de apenas uma variável, mas de duas somadas, colocamos ambas após a vírgula entre as aspas das parênteses do printf e um sinal de "+" entre elas.
 
 # Condições
 
