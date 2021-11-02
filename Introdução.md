@@ -97,7 +97,6 @@ Como vimos mais cedo, "printf" imprime um output para o usuário, este que sempr
 # Operações e Terceiro Exemplo
 
 ```
-
 #include <cs50.h>
 #include <stdio.h>
 
@@ -109,7 +108,6 @@ int main(void)
 
     printf("%i\n", x + y);
 }
-
 ```
 
 
