@@ -62,7 +62,22 @@ int main(void)
     }
 }
 ```
-Note que utilizamos novamente "**headers**" para incluir funções não-nativas ao C, "**int main(void)**" para declarar a função principal do programa e que não exige input inicial, assim como o comando "**get**" para conseguir input do usuário após a execução do código. 
+
+> #include <cs50.h>
+ 
+> #include <stdio.h>
+
+Note que utilizamos novamente "**headers**" para incluir funções não-nativas ao C
+
+> int main(void)
+
+"**int main(void)**" para declarar a função principal do programa e que não exige input inicial.
+
+> int x = get_int("x: ");
+
+> int y = get_int("y: ");
+
+O uso docomando "**get**" para conseguir input do usuário após a execução do código. 
 Ademais, não precisamos da condição "else if (x == y)" e sim apenas "else", pois é a única possibilidade que sobrará.
 
 Mais um exemplo:
