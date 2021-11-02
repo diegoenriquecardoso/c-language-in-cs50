@@ -29,3 +29,21 @@ Após o Header, vemos:
 
 Esta linha está sempre inclusa nos programas que não precisam de um input para serem iniciados, "int main" se trata da declaração da função principal "main" do programa, já " (void)" dita como nada deve ser escrito adjacente ao comando de iniciação quando for se executar o programa. 
 
+> ´´´ { 
+> printf("hello, world");
+>  } ´´´
+
+a
+
+
+
+
+
+
+
+
+
+
+
+
+
