@@ -66,4 +66,4 @@ Por fim, como pode ser visto, há **comentários** no código do último exemplo
 
 Anterior: [2 - Data Types](https://github.com/diegoenriquecardoso/c-language-in-cs50/blob/main/content/datatypes.md) / Próximo: [4 - Condições](https://github.com/diegoenriquecardoso/c-language-in-cs50/blob/main/content/condicoes.md)
 
-[index]()
+[index]() / [Todos desta]() / [Todos comandos]()
