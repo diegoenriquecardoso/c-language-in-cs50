@@ -41,7 +41,7 @@ Após um programa ser escrito, antes de podermos executá-lo, o mesmo deve ser c
 
 Caso haja erros, a compilação não será feita e o usuário deve buscar encontrar os bugs em seu código. Caso a compilação seja um sucesso, para inicializar o programa utilizados outro comando no terminal.
 
-> \./<nome-do-programa>
+> ./\<nome-do-programa\>
    
 A Linguagem C é capaz das mais variadas possibilidades, algumas das quais veremos neste repositório. Antes disso devemos entender melhor sobre outros elementos muito presentes nos códigos em C.
 
