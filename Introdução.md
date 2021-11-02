@@ -44,7 +44,8 @@ Caso haja erros, a compilação não será feita e o usuário deve buscar encont
 > ./<nome-do-programa>
    
 A Linguagem C é capaz das mais variadas possibilidades, algumas das quais veremos neste repositório. Antes disso devemos entender melhor sobre outros elementos muito presentes nos códigos em C.
-    
+
+# Segundo Exemplo
 ```
 #include <cs50.h>
 #include <stdio.h>
