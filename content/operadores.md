@@ -1,0 +1,3 @@
+# Lista de Operadores
+
+## Aritméticos
