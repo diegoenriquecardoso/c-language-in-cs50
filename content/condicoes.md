@@ -77,7 +77,7 @@ Note que utilizamos novamente "**headers**" para incluir funções não-nativas 
 
 > int y = get_int("y: ");
 
-O uso docomando "**get**" para conseguir input do usuário após a execução do código. 
+e o uso docomando "**get**" para conseguir input do usuário após a execução do código. 
 Ademais, não precisamos da condição "else if (x == y)" e sim apenas "else", pois é a única possibilidade que sobrará.
 
 Mais um exemplo:
