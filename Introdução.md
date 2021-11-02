@@ -33,8 +33,28 @@ Esta linha está sempre inclusa nos programas que não precisam de um input para
 
 O corpo do programa que dirá o que o deve ser feito e de que forma sempre deve ser colocado entre chaves "{" e "}". Aqui vemos o comando "printf", ele irá imprimir para o usuário o que tiver sido escrito dentro das parênteses e entre aspas após o mesmo. Como outros "corpos" ou "branches", sempre após um comando printf, deve-se utilizar ponto e vírgula ";".
 
+# Compilação
 
+Após um programa ser escrito, antes de podermos executá-lo, o mesmo deve ser compilado, isso é feito através de um comando no terminal.
 
+> make <nome-do-programa.c>
+
+Caso haja erros, a compilação não será feita e o usuário deve buscar encontrar os bugs em seu código. Caso a compilação seja um sucesso, para inicializar o programa utilizados outro comando no terminal.
+
+> ./<nome-do-programa>
+   
+A Linguagem C é capaz das mais variadas possibilidades, algumas das quais veremos neste repositório. Antes disso devemos entender melhor sobre outros elementos muito presentes nos códigos em C.
+    
+```
+#include <cs50.h>
+#include <stdio.h>
+
+int main(void)
+{
+    string answer = get_string("What's your name? ");
+    printf("hello, %s", answer);
+}
+```
 
 
 
