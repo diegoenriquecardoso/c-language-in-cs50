@@ -19,9 +19,13 @@ Comando para introduzir o Header.
 
 > <stdio.h>
 
-O Header em si no caso é o stdio.h, todos headers sempre devem ser colocados entre "<" e ">".
+O Header em si, todos sempre devem ser colocados entre "<" e ">".
 
-A função do stdio.h aqui é a de permitir o uso do comando printf, não originalmente parte da Linguagem C, o comando permite que os programas imprimam textos e/ou símbolos como output.
+A função do stdio.h nesse caso específico é a de permitir o uso do comando printf, não originalmente parte da Linguagem C, o comando permite que os programas imprimam textos e/ou símbolos como output, mas ele também permite o uso de uma série de outras funções que serão descritas mais tarde.
 
-Após o Header, vemos "int main(void)": Esta linha está sempre inclusa nos programas que não precisam de um input para serem iniciados, o (void) representa que nada deve ser colocado adjacente ao comando de iniciar o programa.
+Após o Header, vemos: 
+
+> int main(void)
+
+Esta linha está sempre inclusa nos programas que não precisam de um input para serem iniciados, "int main" se trata da declaração da função principal "main" do programa, já " (void)" dita como nada deve ser escrito adjacente ao comando de iniciação quando for se executar o programa. 
 
