@@ -49,4 +49,4 @@ Como vimos mais cedo, "printf" imprime um output para o usuário, este que sempr
 
 Anterior: [1 - Introdução](https://github.com/diegoenriquecardoso/c-language-in-cs50/blob/main/content/introducao.md) / Próximo: [3 - Operações](https://github.com/diegoenriquecardoso/c-language-in-cs50/blob/main/content/operacoes.md)
 
-[index]() [Todos desta]() [Todos comandos]()
+[index]() / [Todos desta]() / [Todos comandos]()
