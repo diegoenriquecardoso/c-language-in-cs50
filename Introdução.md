@@ -88,29 +88,11 @@ Como vimos mais cedo, "printf" imprime um output para o usuário, este que sempr
 
 ### E os comandos get correspondentes:
 
-> get_char
-
-> get_double
-
-> get_float
-
-> get_int
-
-> get_long
-
-> get_string
+> get_char, get_string, get_int, get_long, get_float, get_double
 
 ### Para o comando printf, também temos diferentes placeholders correspondentes para imprimir cada data type:
 
-> %c para chars
-
-> %f para floats e doubles
-
-> %i para ints
-
-> %li para longs
-
-> %s para strings
+> %c para chars, %s para strings, %i para ints %li para longs, %f para floats e doubles
 
 
 
