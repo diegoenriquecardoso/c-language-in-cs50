@@ -13,7 +13,7 @@
 ## Especíco com uma variável
 
 | Símbolo | Função | Versão Normal | Atalho |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |
 | + | Incrementar o valor de uma variável em 1 | i = i + 1 | i++ |
 | - | Diminuir o valor de uma variável em 1 | i = i - 1 | i-- |
 | = | Atribui um valor a uma variável | nenhum | nenhum |
