@@ -46,3 +46,5 @@ Como vimos mais cedo, "printf" imprime um output para o usuário, este que sempr
 ### Para o comando printf, também temos diferentes placeholders correspondentes para imprimir cada data type:
 
 > %c para chars, %s para strings, %i para ints %li para longs, %f para floats e doubles
+
+Próximo: [3 - Operações](https://github.com/diegoenriquecardoso/c-language-in-cs50/blob/main/content/operacoes.md)
