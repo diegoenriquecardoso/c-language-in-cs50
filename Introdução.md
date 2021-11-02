@@ -56,9 +56,19 @@ int main(void)
     printf("hello, %s", answer);
 }
 ```
+Aqui vemos três novos elementos, "Data Types", "Comandos Get" e uma variável.
 
+> string answer
 
+String é um Data Type, uma forma de alocar a memória do hardware para que trabalhe com "palavras", ou seja, uniões de letras. Há muitos outros Data Types que ainda citaremos. Após a declaração do data type "String" vemos "answer", ao unir um data type com um nome escolhido para o mesmo, temos uma variável, nesse caso é uma variável do tipo "String" que se chama "answer"
 
+> get_string
+
+Comandos "Get" são utilizados para conseguir algum tipo de input especifico do usuário dependendo de qual data type é escrito em união ao get, nesse caso "get_string", ou seja, o computador só irá aceitar palavras, caso o usuário escreva um número, por exemplo, o programa irá pedir novamente por um input até que recebe o data type especificado. O comando "Get" assim como o "printf" visto mais cedo, também imprime algo na tela. Ademais, como sua função é a de receber inputs, dentro das parênteses e entre as aspas deve sempre ser colocado um espaçamento no final para que a resposta possa ser alocada. Assim como outros comandos, ponto e vírgula ";" no fim de sua linha é necessário. Ademais, o header <cs50.h> incluso neste código é o que possibilita o uso de comandos "get".
+
+> printf("hello, %s", answer);
+
+Como vimos mais cedo, "printf" imprime um output para o usuário, este que sempre está dentro das parênteses e entre aspas. No caso vamos algo um pouco diferente do primeiro ("Hello, World"), aqui temos ("hello, %s", answer), "%" representa que alguma variável será imprimida no comando, o data type da variável deve ser especificado com uma letra no caso "%s" significa que uma variável do tipo string será imprimida, após isso, finalizando as aspas e separando-os por uma vírgula, a variável em si deve ser especificada, no caso a variável "answer". Objetivo deste programa é que o output seja Hello + o nome do usuário(pedido como input inicial), para isso vimos que criamos uma variável "String" e que pedimos um input que também fosse "string". Foi utilizado um sinal de igual "=" para alocar qualquer fosse o input do usuário ao valor da variável.
 
 
 
