@@ -7,4 +7,8 @@
 
 # Sumário
 
-[1 - Introdução](https://github.com/diegoenriquecardoso/c-language-in-cs50/blob/main/Introdução.md)
+[1 - Introdução](https://github.com/diegoenriquecardoso/c-language-in-cs50/blob/main/content/Introdução.md)
+
+[2 - Data Types](https://github.com/diegoenriquecardoso/c-language-in-cs50/blob/main/content/datatypes.md)
+
+[3 - Operações](https://github.com/diegoenriquecardoso/c-language-in-cs50/blob/main/content/operacoes.md)
