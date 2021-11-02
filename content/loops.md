@@ -141,4 +141,4 @@ Note que sempre que o loop externo acontece, o de baixo acontece três vezes. O 
 
 Anterior: [4 - Condições](https://github.com/diegoenriquecardoso/c-language-in-cs50/blob/main/content/condicoes.md) / Próximo: [6 - Debugging]()
 
-[Index]()
+[Index]() / [Todos desta]() / [Todos comandos]()
