@@ -72,19 +72,19 @@ Como vimos mais cedo, "printf" imprime um output para o usuário, este que sempr
 
 # Tipos
 
-*bool*: representa expressões booleanas, aceita apenas valores de "verdadeiro" ou "falso"
+**bool**: representa expressões booleanas, aceita apenas valores de "verdadeiro" ou "falso"
 
-*char*: um único caractere ASCII, como "a" ou "2" 
+**char**: um único caractere ASCII, como "a" ou "2" 
 
-*string*: uma "corrente" de caracteres
+**string**: uma "corrente" de caracteres
 
-*int*: um número inteiro que pode ir até um certo número positivo ou negativo, ou até um número de bytes.
+**int**: um número inteiro que pode ir até um certo número positivo ou negativo, ou até um número de bytes.
 
-*long*: número inteiro assim como o int, só que com mais bits, portando consegue suportar numeros maiores, em detrimento da capacidade de se utilizar números negativos.
+**long**: número inteiro assim como o int, só que com mais bits, portando consegue suportar numeros maiores, em detrimento da capacidade de se utilizar números negativos.
 
-*float*: um valor que pode alocar tanto números reais como números com vírgula ou decimais.
+**float**: um valor que pode alocar tanto números reais como números com vírgula ou decimais.
 
-*double*: um float capaz de utilizar mais digitos
+**double**: um float capaz de utilizar mais digitos
 
 ### E os comandos get correspondentes:
 
