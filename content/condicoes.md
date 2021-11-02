@@ -87,4 +87,6 @@ int main(void)
 ```
 Nota aqui que dentro das expressões booleanas(que podem apenas ser verdadeiras ou falsas) temos o uso do símbolo "||", ele representa que a expressão inteira será tida como verdadeira desde que no mínimo uma das condições presentes sejam verdadeiras, o mesmo que um "ou" e foi utilizada no código para que independentemente de o usuário fazer seu input em caixa alta ou baixa, o programa rode normalmente. Também dentro das expressões booleanas podemos ver entre uma ou mais condições o símbolo "&&" e ele significa que a condição será verdadeira apenas se todos argumentos dentro dela sejam verdadeiros, o oposto de "||". Também imporante denotar que os comandos if não terminam em ";".
 
-Próximo: [5 - Loops](https://github.com/diegoenriquecardoso/c-language-in-cs50/blob/main/content/loops.md)
+Anterior [3 - Operações](https://github.com/diegoenriquecardoso/c-language-in-cs50/blob/main/content/operacoes.md) / Próximo: [5 - Loops](https://github.com/diegoenriquecardoso/c-language-in-cs50/blob/main/content/loops.md)
+
+[Index]()
