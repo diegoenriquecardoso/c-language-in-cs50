@@ -162,6 +162,71 @@ Por fim, como pode ser visto, há **comentários** no código do último exemplo
 
 # Condições
 
+O principal comando que estabelece condições para que algo aconteça se trata do comando "if".
+```
+if (x < y)
+{
+    printf("x is less than y\n");
+}
+```
+Também podemos utilizar o comando "else" em sua junção para adicionar mais possibilidades
+```
+if (x < y)
+{
+    printf("x is less than y\n");
+}
+else
+{
+    printf("x is not less than y\n");
+}
+```
+E mesmo "else if"
+```
+if (x < y)
+{
+    printf("x is less than y\n");
+}
+else if (x > y)
+{
+    printf("x is greater than y\n");
+}
+else if (x == y)
+{
+    printf("x is equal to y\n");
+}
+```
+Percebe-se que na Linguagem C, o símbolo "=" é usado apenas para alocar um valor a outro, normalmente dar um valor para uma variável. Quando desejamos expressar uma igualdade, utilizamos "==". Podemos expressar isso através do seguinte programa:
+```
+#include <cs50.h>
+#include <stdio.h>
+
+int main(void)
+{
+    // Prompt user for x
+    int x = get_int("x: ");
+
+    // Prompt user for y
+    int y = get_int("y: ");
+
+    // Compare x and y
+    if (x < y)
+    {
+        printf("x is less than y\n");
+    }
+    else if (x > y)
+    {
+        printf("x is greater than y\n");
+    }
+    else
+    {
+        printf("x is equal to y\n");
+    }
+}
+```
+Note que utilizamos aqui novamente Header para incluir funções não-nativas ao C, int main(void) para declarar a função principal do programa e que não exige input inicial, assim como comando get para conseguir input do usuário após a execução do código. 
+Ademais, não precisamos dizer a condição "else if (x == y)" e sim apenas "else", pois é a única possibilidade que sobrou.
+
+
 # Loops
 
 
