@@ -31,3 +31,4 @@ Este se trata do "comando for", onde é estabelecida uma variável e seu valor i
 # Abstração
 
 
+Anterior: [4 - Condições](https://github.com/diegoenriquecardoso/c-language-in-cs50/blob/main/content/condicoes.md)
