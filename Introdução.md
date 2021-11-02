@@ -134,7 +134,7 @@ Com \n:
 
 Como desta vez não imprimiremos o valor de apenas uma variável, mas de duas somadas, colocamos um sinal de "+" entre elas ao colocá-las dentro do comando printf.
 
-Caso quiséssemos trabalhar com valores possívelmente maiores (no caso maiores que 4 Bilhões), poderíamos trocar o data type do código de int para long. Assim como se quiséssemos dividir em vez de somar trocaríamos o símbolo de "+" por um de "/", onde por sua vez caso quisséssemos que nossas divisões pudessem resultar em números com vírgula, poderíamos utilizar os data types "float" e "double".
+Caso quiséssemos trabalhar com valores possívelmente maiores (no caso maiores que 4 bilhões), poderíamos trocar o data type do código de "int" para "long". Assim como se quiséssemos dividir em vez de somar trocaríamos o símbolo de "+" por um de "/", onde por sua vez caso quisséssemos que nossas divisões pudessem resultar em números com vírgula, poderíamos utilizar os data types "float" e "double".
 
 # Condições
 
