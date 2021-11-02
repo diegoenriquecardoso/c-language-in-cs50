@@ -89,4 +89,4 @@ Nota aqui que dentro das expressões booleanas(que podem apenas ser verdadeiras 
 
 Anterior: [3 - Operações](https://github.com/diegoenriquecardoso/c-language-in-cs50/blob/main/content/operacoes.md) / Próximo: [5 - Loops](https://github.com/diegoenriquecardoso/c-language-in-cs50/blob/main/content/loops.md)
 
-[Index]()
+[Index]() / [Todos desta]() / [Todos comandos]()
