@@ -115,7 +115,7 @@ int get_positive_int(void)
 ```
 Aqui vemos um programa que pede um input do usuário, mas só aceita números positivos, declaramos um protótipo da nossa função get_positive_int que recusará números negativos, dessa vez começando com int e não void, pois retornará um valor. A função em si foi definida após a principal, nela vemos um loop "do while", que fará algo enquanto uma condição for verdadeira, no caso, enquanto o input do usuário for um número negativo, continuará pedindo um valor, denovo e denovo, até que recebe um valor positivo e a condição se torne falsa. Esse tipo de loop garante que algo irá acontecer pelo menos uma vez.
 
-# Mario
+# Loop de Loop
 
 Por fim, podemos fazer um loop dentro de outro loop, da seguinte maneira:
 ```
