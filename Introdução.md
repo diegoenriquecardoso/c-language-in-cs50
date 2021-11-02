@@ -223,8 +223,8 @@ int main(void)
     }
 }
 ```
-Note que utilizamos aqui novamente Header para incluir funções não-nativas ao C, int main(void) para declarar a função principal do programa e que não exige input inicial, assim como comando get para conseguir input do usuário após a execução do código. 
-Ademais, não precisamos dizer a condição "else if (x == y)" e sim apenas "else", pois é a única possibilidade que sobrou.
+Note que utilizamos novamente headers para incluir funções não-nativas ao C, int main(void) para declarar a função principal do programa e que não exige input inicial, assim como comando get para conseguir input do usuário após a execução do código. 
+Ademais, não precisamos da condição "else if (x == y)" e sim apenas "else", pois é a única possibilidade que sobrará.
 
 
 # Loops
