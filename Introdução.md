@@ -114,6 +114,22 @@ int main(void)
 }
 ```
 
+> int x = get_int("x: ");
+
+> int y = get_int("y: ");
+
+Aqui vemos um programa com a função de somar valores, novamente percebe-se o uso do comando get para conseguir input do usúário assim como declaração de váriaveis e alocação de seus valores a o que o usuário digitou para que possamos utiliza-los em outra parte do código. Dessa vez, o data type utilizado é int, que representa números inteiros e que podemos utilizar para fazer as mais variadas operações matemáticas.
+
+> printf("%i\n", x + y);
+
+Para dar o resultado da soma como output, dessa vez imprimiremos apenas valores relacionados as variáveis, portanto o uso do "%i". Nota-se que ele esta em junção de "\n", este serve para que o valor exibido pelo programa fique separado da próxima linha do terminal.
+
+**Sem \n**
+![image](https://user-images.githubusercontent.com/93105584/139869175-f7336735-4565-42f1-ab1e-8ce925a36e38.png)
+**Com \n**
+![image](https://user-images.githubusercontent.com/93105584/139869389-515a8d70-57c3-4546-834c-6f9178d0ff4c.png)
+
+
 # Condições
 
 # Loops
