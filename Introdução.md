@@ -124,9 +124,12 @@ Aqui vemos um programa com a função de somar valores, novamente percebe-se o u
 
 Para dar o resultado da soma como output, dessa vez imprimiremos apenas valores relacionados as variáveis, portanto o uso do "%i". Nota-se que ele esta em junção de "\n", este serve para que o valor exibido pelo programa fique separado da próxima linha do terminal.
 
-**Sem \n**
+Sem \n:
+
 ![image](https://user-images.githubusercontent.com/93105584/139869175-f7336735-4565-42f1-ab1e-8ce925a36e38.png)
-**Com \n**
+
+Com \n:
+
 ![image](https://user-images.githubusercontent.com/93105584/139869389-515a8d70-57c3-4546-834c-6f9178d0ff4c.png)
 
 
