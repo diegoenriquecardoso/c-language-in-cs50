@@ -23,7 +23,7 @@
 | Símbolo | Nome | Função | 
 | --- | --- | --- |
 | && | And | A expressão é verdadeira apenas se todas operações em volta do símbolo são verdadeiras | 
-| \||\ | Or | Expressão é verdadeira se pelo menos uma das operações em volta do símbolo é verdadeira |
+| \|\\|\ | \Or\ | Expressão é verdadeira se pelo menos uma das operações em volta do símbolo é verdadeira |
 | ! | Not | Inverte os valores dos operando, caso x seja verdadeiro, x! será falso |
 | > | Greater | Representa que o número a esquerda da seta deve ser maior que o da direita para que a expressão seja verdadeira  |
 | >= | Greater or Equal | Representa que o número a esquerda da seta deve ser maior ou igual o a direita para que a expressão seja verdadeira |
