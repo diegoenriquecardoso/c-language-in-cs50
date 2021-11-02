@@ -44,3 +44,5 @@ Caso haja erros, a compilação não será feita e o usuário deve buscar encont
 > ./\<nome-do-programa\>
    
 A Linguagem C é capaz das mais variadas possibilidades, algumas das quais veremos neste repositório. Antes disso devemos entender melhor sobre outros elementos muito presentes nos códigos em C.
+
+Próximo: [2 - Data Types](https://github.com/diegoenriquecardoso/c-language-in-cs50/blob/main/content/datatypes.md)
