@@ -48,7 +48,7 @@ Como vimos mais cedo, "printf" imprime um output para o usuário, este que sempr
 > %c para chars, %s para strings, %i para ints %li para longs, %f para floats e doubles
 
 Extra: 
-[Lista Detalhada sobre os Data Types](https://github.com/diegoenriquecardoso/c-language-in-cs50/blob/main/content/dataspecify.md)
+[Lista detalhada sobre os Data Types](https://github.com/diegoenriquecardoso/c-language-in-cs50/blob/main/content/dataspecify.md)
 
 Anterior: [1 - Introdução](https://github.com/diegoenriquecardoso/c-language-in-cs50/blob/main/content/introducao.md) / Próximo: [3 - Operações](https://github.com/diegoenriquecardoso/c-language-in-cs50/blob/main/content/operacoes.md)
 
