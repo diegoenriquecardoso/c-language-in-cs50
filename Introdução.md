@@ -94,7 +94,20 @@ Como vimos mais cedo, "printf" imprime um output para o usuário, este que sempr
 
 > %c para chars, %s para strings, %i para ints %li para longs, %f para floats e doubles
 
+# Operações e Terceiro Exemplo
+´´´
+#include <cs50.h>
+#include <stdio.h>
 
+int main(void)
+{
+    int x = get_int("x: ");
+
+    int y = get_int("y: ");
+
+    printf("%i\n", x + y);
+}
+´´´
 
 
 
