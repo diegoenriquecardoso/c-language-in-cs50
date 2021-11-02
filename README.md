@@ -7,4 +7,4 @@
 
 # Sumário
 
-[1 - Introdução] (https://github.com/diegoenriquecardoso/c-language-in-cs50/blob/main/Introdução.md)
+[1 - Introdução](https://github.com/diegoenriquecardoso/c-language-in-cs50/blob/main/Introdução.md)
