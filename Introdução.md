@@ -98,7 +98,7 @@ Como vimos mais cedo, "printf" imprime um output para o usuário, este que sempr
 
 A linguagem C aceita diversos tipos de operadores para realização de cálculos e funções, como:
 
-> + para adição, - para subtração, * para multiplicação, / para divisão e % para dizer o resto de uma divisão(módulo). 
+> \+\ para adição, - para subtração, * para multiplicação, / para divisão e % para dizer o resto de uma divisão(módulo). 
 
 ```
 #include <cs50.h>
