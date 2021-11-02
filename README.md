@@ -7,8 +7,12 @@
 
 # Sumário
 
-[1 - Introdução](https://github.com/diegoenriquecardoso/c-language-in-cs50/blob/main/content/Introdução.md)
+[1 - Introdução](https://github.com/diegoenriquecardoso/c-language-in-cs50/blob/main/content/introducao.md)
 
 [2 - Data Types](https://github.com/diegoenriquecardoso/c-language-in-cs50/blob/main/content/datatypes.md)
 
 [3 - Operações](https://github.com/diegoenriquecardoso/c-language-in-cs50/blob/main/content/operacoes.md)
+
+[4 - Condições](https://github.com/diegoenriquecardoso/c-language-in-cs50/blob/main/content/condicoes.md)
+
+[5 - Loops](https://github.com/diegoenriquecardoso/c-language-in-cs50/blob/main/content/loops.md)
