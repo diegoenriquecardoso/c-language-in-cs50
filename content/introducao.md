@@ -40,7 +40,7 @@ O corpo do programa que dirá o que o deve ser feito e de que forma sempre deve 
 
 Após um programa ser escrito, antes de podermos executá-lo, o mesmo deve ser compilado, isso é feito através de um comando no terminal.
 
-> make <nome-do-programa>
+> make \<nome-do-programa>
 
 Caso haja erros, a compilação não será feita e o usuário deve buscar encontrar os bugs em seu código. Caso a compilação seja um sucesso, para inicializar o programa utilizados outro comando no terminal.
 
